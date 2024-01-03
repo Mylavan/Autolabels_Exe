@@ -3,6 +3,9 @@ This Project contains Inferencing a onnx/Openvino model using Openvino 2023 and 
 The code is written for a segmentation model inference , Source code needs to be re-written for Other Model inference 
 
 This code Generates the Autolabels, CA,CTR and dumps the image into respective folder
+The input should be the .jpg file 
+
+//This was created to verify the On cart code with the stand alone code 
 
 Folder Structure 
 
